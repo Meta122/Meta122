@@ -6,10 +6,12 @@ I'm a computer engineering student at Efrei. I enjoy building usable projects an
 
 | Project | What it demonstrates |
 | --- | --- |
-| [Study of Markov Graphs](https://github.com/Meta122/StudyOfMarkovGraphs) | C, directed graphs, Tarjan's algorithm, transition matrices and CMake |
-| [Computer Science Department website](https://github.com/Meta122/WebProgrammingVeclinProuteauINT2) | HTML, CSS and JavaScript in a multi-page academic web project |
-| [Create mod logistics database](https://github.com/Astrion20/ProuteauVeclinDataBaseProjetctInt2) | Teamwork, MERISE modeling and SQL schema, constraints, sample data and queries |
-| [Le coin du geek](https://github.com/CactusTerreur74/Le-coin-du-geek) | Collaborative HTML, CSS and JavaScript website |
+| [Study of Markov Graphs](https://github.com/Meta122/StudyOfMarkovGraphs) | Directed graphs, Tarjan's algorithm and transition matrices in C |
+| [Computer Science Department website](https://github.com/Meta122/WebProgrammingVeclinProuteauINT2) · [live demo](https://meta122.github.io/WebProgrammingVeclinProuteauINT2/) | Multi-page HTML/CSS/JavaScript site with a carousel and interactive quiz |
+| [Starship Savior](https://github.com/Meta122/StarshipSavior) | Python/Pygame space shooter with an introduction, menus and three game modes |
+| [Create mod logistics database](https://github.com/Astrion20/ProuteauVeclinDataBaseProjetctInt2) | Team project using MERISE modeling and SQL schema, constraints, sample data and queries |
+
+I also contributed to [Le coin du geek](https://github.com/CactusTerreur74/Le-coin-du-geek), a collaborative web project.
 
 ## How I work
 
